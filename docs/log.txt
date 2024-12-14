@@ -1,0 +1,293 @@
+(.env) llama-on-slurm $ $LOS_DIR/scripts/attach_llama_job.sh
+> initializing model parallel with size 8
+> initializing ddp with size 1
+> initializing pipeline with size 1
+/home/ywatanabe/proj/llama-on-slurm/llama-models/.env/lib/python3.11/site-packages/torch/__init__.py:1144: UserWarning: torch.set_default_tensor_type() is deprecated as of PyTorch 2.1, please use torch.set_default_dtype() and torch.set_default_device() as alternatives. (Triggered internally at ../torch/csrc/tensor/python_tensor.cpp:432.)
+  _C._set_default_tensor_type(t)
+/home/ywatanabe/proj/llama-on-slurm/llama-models/.env/lib/python3.11/site-packages/torch/__init__.py:1144: UserWarning: torch.set_default_tensor_type() is deprecated as of PyTorch 2.1, please use torch.set_default_dtype() and torch.set_default_device() as alternatives. (Triggered internally at ../torch/csrc/tensor/python_tensor.cpp:432.)
+  _C._set_default_tensor_type(t)
+Loaded in 8.28 seconds
+/home/ywatanabe/proj/llama-on-slurm/llama-models/.env/lib/python3.11/site-packages/torch/__init__.py:1144: UserWarning: torch.set_default_tensor_type() is deprecated as of PyTorch 2.1, please use torch.set_default_dtype() and torch.set_default_device() as alternatives. (Triggered internally at ../torch/csrc/tensor/python_tensor.cpp:432.)
+  _C._set_default_tensor_type(t)
+/home/ywatanabe/proj/llama-on-slurm/llama-models/.env/lib/python3.11/site-packages/torch/__init__.py:1144: UserWarning: torch.set_default_tensor_type() is deprecated as of PyTorch 2.1, please use torch.set_default_dtype() and torch.set_default_device() as alternatives. (Triggered internally at ../torch/csrc/tensor/python_tensor.cpp:432.)
+  _C._set_default_tensor_type(t)
+Loaded in 10.09 seconds
+/home/ywatanabe/proj/llama-on-slurm/llama-models/.env/lib/python3.11/site-packages/torch/__init__.py:1144: UserWarning: torch.set_default_tensor_type() is deprecated as of PyTorch 2.1, please use torch.set_default_dtype() and torch.set_default_device() as alternatives. (Triggered internally at ../torch/csrc/tensor/python_tensor.cpp:432.)
+  _C._set_default_tensor_type(t)
+/home/ywatanabe/proj/llama-on-slurm/llama-models/.env/lib/python3.11/site-packages/torch/__init__.py:1144: UserWarning: torch.set_default_tensor_type() is deprecated as of PyTorch 2.1, please use torch.set_default_dtype() and torch.set_default_device() as alternatives. (Triggered internally at ../torch/csrc/tensor/python_tensor.cpp:432.)
+  _C._set_default_tensor_type(t)
+/home/ywatanabe/proj/llama-on-slurm/llama-models/.env/lib/python3.11/site-packages/torch/__init__.py:1144: UserWarning: torch.set_default_tensor_type() is deprecated as of PyTorch 2.1, please use torch.set_default_dtype() and torch.set_default_device() as alternatives. (Triggered internally at ../torch/csrc/tensor/python_tensor.cpp:432.)
+  _C._set_default_tensor_type(t)
+Loaded in 11.07 seconds
+Loaded in 11.63 seconds
+/home/ywatanabe/proj/llama-on-slurm/llama-models/.env/lib/python3.11/site-packages/torch/__init__.py:1144: UserWarning: torch.set_default_tensor_type() is deprecated as of PyTorch 2.1, please use torch.set_default_dtype() and torch.set_default_device() as alternatives. (Triggered internally at ../torch/csrc/tensor/python_tensor.cpp:432.)
+  _C._set_default_tensor_type(t)
+Loaded in 12.90 seconds
+Loaded in 12.99 seconds
+Loaded in 13.08 seconds
+Loaded in 13.98 seconds
+User: what is the recipe of mayonnaise?
+
+> Assistant: The classic condiment! Mayonnaise is a simple yet versatile sauce made from just a few ingredients. Here's the basic recipe:
+
+**Ingredients:**
+
+* 2 large egg yolks
+* 1 tablespoon lemon juice or vinegar (such as white wine vinegar or apple cider vinegar)
+* 1/2 teaspoon salt
+* 1 cup (240 ml) neutral-tasting oil, such as canola, grapeseed, or light olive oil
+
+**Instructions:**
+
+1. **In a medium bowl**, whisk together the egg yolks, lemon juice or vinegar, and salt until well combined.
+2. **Slowly pour the oil**: While continuously whisking the egg yolk mixture, slowly pour the oil into the bowl in a thin, steady stream. Start with a very slow pour, as the mixture will thicken quickly.
+3. **Whisk constantly**: Continue whisking until the mixture thickens and emulsifies, which should take about 5-7 minutes. You'll know it's working when the mixture starts to turn into a smooth, creamy sauce.
+4. **Taste and adjust**: Once the mayonnaise has thickened, taste it and adjust the seasoning as needed. You can add more lemon juice, salt, or even a pinch of sugar to taste.
+5. **Store in the fridge**: Transfer the mayonnaise to an airtight container and store it in the refrigerator for up to 1 week.
+
+**Tips and Variations:**
+
+* **Use room temperature ingredients**: This will help the mayonnaise come together more smoothly.
+* **Don't over-whisk**: Stop whisking once the mayonnaise has thickened, as over-whisking can cause it to break.
+* **Add flavorings**: Consider adding minced garlic, grated ginger, or chopped herbs like parsley or dill to create different flavor variations.
+* **Make it lighter**: If you prefer a lighter mayonnaise, you can add a little water or buttermilk to thin it out.
+* **Try different oils**: While neutral-tasting oils work best, you can experiment with other oils like avocado oil or sesame oil for unique flavor profiles.
+
+**Troubleshooting:**
+
+* **Mayonnaise doesn't thicken**: If the mixture doesn't thicken, it may be due to the oil being poured too quickly or the egg yolks being too cold. Try starting again with a slower pour
+
+==================================
+
+User: what is the recipe of mayonnaise?
+
+> Assistant: The classic condiment! Mayonnaise is a simple yet versatile sauce made from just a few ingredients. Here's the basic recipe:
+
+**Ingredients:**
+
+* 2 large egg yolks
+* 1 tablespoon lemon juice or vinegar (such as white wine vinegar or apple cider vinegar)
+* 1/2 teaspoon salt
+* 1 cup (240 ml) neutral-tasting oil, such as canola, grapeseed, or light olive oil
+
+**Instructions:**
+
+1. **In a medium bowl**, whisk together the egg yolks, lemon juice or vinegar, and salt until well combined.
+2. **Slowly pour the oil**: While continuously whisking the egg yolk mixture, slowly pour the oil into the bowl in a thin, steady stream. Start with a very slow pour, as the mixture will thicken quickly.
+3. **Whisk constantly**: Continue whisking until the mixture thickens and emulsifies, which should take about 5-7 minutes. You'll know it's working when the mixture starts to turn into a smooth, creamy sauce.
+User: what is the recipe of mayonnaise?
+
+> Assistant: The classic condiment! Mayonnaise is a simple yet versatile sauce made from just a few ingredients. Here's the basic recipe:
+
+**Ingredients:**
+
+* 2 large egg yolks
+* 1 tablespoon lemon juice or vinegar (such as white wine vinegar or apple cider vinegar)
+* 1/2 teaspoon salt
+* 1 cup (240 ml) neutral-tasting oil, such as canola, grapeseed, or light olive oil
+
+**Instructions:**
+
+1. **In a medium bowl**, whisk together the egg yolks, lemon juice or vinegar, and salt until well combined.
+2. **Slowly pour the oil**: While continuously whisking the egg yolk mixture, slowly pour the oil into the bowl in a thin, steady stream. Start with a very slow pour, as the mixture will thicken quickly.
+3. **Whisk constantly**: Continue whisking until the mixture thickens and emulsifies, which should take about 5-7 minutes. You'll know it's working when the mixture starts to turn into a smooth, creamy sauce.
+4. **Taste and adjust**: Once the mayonnaise has thickened, taste it and adjust the seasoning as needed. You can add more lemon juice, salt, or even a pinch of sugar to taste.
+5. **Store in the fridge**: Transfer the mayonnaise to an airtight container and store it in the refrigerator for up to 1 week.
+
+**Tips and Variations:**
+
+* **Use room temperature ingredients**: This will help the mayonnaise come together more smoothly.
+* **Don't over-whisk**: Stop whisking once the mayonnaise has thickened, as over-whisking can cause it to break.
+* **Add flavorings**: Consider adding minced garlic, grated ginger, or chopped herbs like parsley or dill to create different flavor variations.
+* **Make it lighter**: If you prefer a lighter mayonnaise, you can add a little water or buttermilk to thin it out.
+* **Try different oils**: While neutral-tasting oils work best, you can experiment with other oils like avocado oil or sesame oil for unique flavor profiles.
+
+**Troubleshooting:**
+
+* **Mayonnaise doesn't thicken**: If the mixture doesn't thicken, it may be due to the oil being poured too quickly or the egg yolks being too cold. Try starting again with a slower pour
+
+==================================
+
+User: what is the recipe of mayonnaise?
+
+> Assistant: The classic condiment! Mayonnaise is a simple yet versatile sauce made from just a few ingredients. Here's the basic recipe:
+
+**Ingredients:**
+
+* 2 large egg yolks
+* 1 tablespoon lemon juice or vinegar (such as white wine vinegar or apple cider vinegar)
+* 1/2 teaspoon salt
+* 1 cup (240 ml) neutral-tasting oil, such as canola, grapeseed, or light olive oil
+
+**Instructions:**
+
+1. **In a medium bowl**, whisk together the egg yolks, lemon juice or vinegar, and salt until well combined.
+2. **Slowly pour the oil**: While continuously whisking the egg yolk mixture, slowly pour the oil into the bowl in a thin, steady stream. Start with a very slow pour, as the mixture will thicken quickly.
+3. **Whisk constantly**: Continue whisking until the mixture thickens and emulsifies, which should take about 5-7 minutes. You'll know it's working when the mixture starts to turn into a smooth, creamy sauce.
+4. **Taste and adjust**: Once the mayonnaise has thickened, taste it and adjust the seasoning as needed. You can add more lemon juice, salt, or even a pinch of sugar to taste.
+5. **Store in the fridge**: Transfer the mayonnaise to an airtight container and store it in the refrigerator for up to 1 week.
+
+**Tips and Variations:**
+
+* **Use room temperature ingredients**: This will help the mayonnaise come together more smoothly.
+* **Don't over-whisk**: Stop whisking once the mayonnaise has thickened, as over-whisking can cause it to break.
+* **Add flavorings**: Consider adding minced garlic, grated ginger, or chopped herbs like parsley or dill to create different flavor variations.
+* **Make it lighter**: If you prefer a lighter mayonnaise, you can add a little water or buttermilk to thin it out.
+* **Try different oils**: While neutral-tasting oils work best, you can experiment with other oils like avocado oil or sesame oil for unique flavor profiles.
+
+**Troubleshooting:**
+
+* **Mayonnaise doesn't thicken**: If the mixture doesn't thicken, it may be due to the oil being poured too quickly or the egg yolks being too cold. Try starting again with a slower pour
+
+==================================
+
+4. **Taste and adjust**: Once the mayonnaise has thickened, taste it and adjust the seasoning as needed. You can add more lemon juice, salt, or even a pinch of sugar to taste.
+5. **Store in the fridge**: Transfer the mayonnaise to an airtight container and store it in the refrigerator for up to 1 week.
+
+**Tips and Variations:**
+
+* **Use room temperature ingredients**: This will help the mayonnaise come together more smoothly.
+* **Don't over-whisk**: Stop whisking once the mayonnaise has thickened, as over-whisking can cause it to break.
+* **Add flavorings**: Consider adding minced garlic, grated ginger, or chopped herbs like parsley or dill to create different flavor variations.                                                  
+* **Make it lighter**: If you prefer a lighter mayonnaise, you can add a little water or buttermilk to thin it out.
+* **Try different oils**: While neutral-tasting oils work best, you can experiment with other oils like avocado oil or sesame oil for unique flavor profiles.
+
+**Troubleshooting:**
+
+* **Mayonnaise doesn't thicken**: If the mixture doesn't thicken, it may be due to the oil being poured too quickly or the egg yolks being too cold. Try starting again with a slower pour
+
+==================================
+
+User: what is the recipe of mayonnaise?
+
+> Assistant: The classic condiment! Mayonnaise is a simple yet versatile sauce made from just a few ingredients. Here's the basic recipe:
+
+**Ingredients:**
+
+* 2 large egg yolks
+* 1 tablespoon lemon juice or vinegar (such as white wine vinegar or apple cider vinegar)
+* 1/2 teaspoon salt
+* 1 cup (240 ml) neutral-tasting oil, such as canola, grapeseed, or light olive oil
+
+**Instructions:**
+
+1. **In a medium bowl**, whisk together the egg yolks, lemon juice or vinegar, and salt until well combined.
+2. **Slowly pour the oil**: While continuously whisking the egg yolk mixture, slowly pour the oil into the bowl in a thin, steady stream. Start with a very slow pour, as the mixture will thicken quickly.
+3. **Whisk constantly**: Continue whisking until the mixture thickens and emulsifies, which should take about 5-7 minutes. You'll know it's working when the mixture starts to turn into a smooth, creamy sauce.
+User: what is the recipe of mayonnaise?
+
+> Assistant: The classic condiment! Mayonnaise is a simple yet versatile sauce made from just a few ingredients. Here's the basic recipe:
+
+**Ingredients:**
+
+* 2 large egg yolks
+* 1 tablespoon lemon juice or vinegar (such as white wine vinegar or apple cider vinegar)
+* 1/2 teaspoon salt
+* 1 cup (240 ml) neutral-tasting oil, such as canola, grapeseed, or light olive oil
+
+**Instructions:**
+
+1. **In a medium bowl**, whisk together the egg yolks, lemon juice or vinegar, and salt until well combined.
+2. **Slowly pour the oil**: While continuously whisking the egg yolk mixture, slowly pour the oil into the bowl in a thin, steady stream. Start with a very slow pour, as the mixture will thicken quickly.
+3. **Whisk constantly**: Continue whisking until the mixture thickens and emulsifies, which should take about 5-7 minutes. You'll know it's working when the mixture starts to turn into a smooth, creamy sauce.
+User: what is the recipe of mayonnaise?
+
+> Assistant: The classic condiment! Mayonnaise is a simple yet versatile sauce made from just a few ingredients. Here's the basic recipe:
+
+**Ingredients:**
+
+* 2 large egg yolks
+* 1 tablespoon lemon juice or vinegar (such as white wine vinegar or apple cider vinegar)
+* 1/2 teaspoon salt
+* 1 cup (240 ml) neutral-tasting oil, such as canola, grapeseed, or light olive oil
+
+**Instructions:**
+
+1. **In a medium bowl**, whisk together the egg yolks, lemon juice or vinegar, and salt until well combined.
+2. **Slowly pour the oil**: While continuously whisking the egg yolk mixture, slowly pour the oil into the bowl in a thin, steady stream. Start with a very slow pour, as the mixture will thicken quickly.
+3. **Whisk constantly**: Continue whisking until the mixture thickens and emulsifies, which should take about 5-7 minutes. You'll know it's working when the mixture starts to turn into a smooth, creamy sauce.
+4. **Taste and adjust**: Once the mayonnaise has thickened, taste it and adjust the seasoning as needed. You can add more lemon juice, salt, or even a pinch of sugar to taste.
+5. **Store in the fridge**: Transfer the mayonnaise to an airtight container and store it in the refrigerator for up to 1 week.
+
+**Tips and Variations:**
+
+* **Use room temperature ingredients**: This will help the mayonnaise come together more smoothly.
+* **Don't over-whisk**: Stop whisking once the mayonnaise has thickened, as over-whisking can cause it to break.
+* **Add flavorings**: Consider adding minced garlic, grated ginger, or chopped herbs like parsley or dill to create different flavor variations.         
+* **Make it lighter**: If you prefer a lighter mayonnaise, you can add a little water or buttermilk to thin it out.
+* **Try different oils**: While neutral-tasting oils work best, you can experiment with other oils like avocado oil or sesame oil for unique flavor profiles.
+
+**Troubleshooting:**
+
+User: what is the recipe of mayonnaise?
+
+> Assistant: The classic condiment! Mayonnaise is a simple yet versatile sauce made from just a few ingredients. Here's the basic recipe:
+
+**Ingredients:**
+
+* 2 large egg yolks
+* 1 tablespoon lemon juice or vinegar (such as white wine vinegar or apple cider vinegar)
+* 1/2 teaspoon salt
+* 1 cup (240 ml) neutral-tasting oil, such as canola, grapeseed, or light olive oil
+
+**Instructions:**
+
+1. **In a medium bowl**, whisk together the egg yolks, lemon juice or vinegar, and salt until well combined.
+2. **Slowly pour the oil**: While continuously whisking the egg yolk mixture, slowly pour the oil into the bowl in a thin, steady stream. Start with a very slow pour, as the mixture will thicken quickly.
+3. **Whisk constantly**: Continue whisking until the mixture thickens and emulsifies, which should take about 5-7 minutes. You'll know it's working when the mixture starts to turn into a smooth, creamy sauce.
+* **Mayonnaise doesn't thicken**: If the mixture doesn't thicken, it may be due to the oil being poured too quickly or the egg yolks being too cold. Try starting again with a slower pour
+
+==================================
+
+4. **Taste and adjust**: Once the mayonnaise has thickened, taste it and adjust the seasoning as needed. You can add more lemon juice, salt, or even a pinch of sugar to taste.
+5. **Store in the fridge**: Transfer the mayonnaise to an airtight container and store it in the refrigerator for up to 1 week.
+
+**Tips and Variations:**
+
+* **Use room temperature ingredients**: This will help the mayonnaise come together more smoothly.
+* **Don't over-whisk**: Stop whisking once the mayonnaise has thickened, as over-whisking can cause it to break.
+* **Add flavorings**: Consider adding minced garlic, grated ginger, or chopped herbs like parsley or dill to create different flavor variations.
+* **Make it lighter**: If you prefer a lighter mayonnaise, you can add a little water or buttermilk to thin it out.
+* **Try different oils**: While neutral-tasting oils work best, you can experiment with other oils like avocado oil or sesame oil for unique flavor profiles.
+
+**Troubleshooting:**
+
+* **Mayonnaise doesn't thicken**: If the mixture doesn't thicken, it may be due to the oil being poured too quickly or the egg yolks being too cold. Try starting again with a slower pour
+
+==================================
+
+4. **Taste and adjust**: Once the mayonnaise has thickened, taste it and adjust the seasoning as needed. You can add more lemon juice, salt, or even a pinch of sugar to taste.
+5. **Store in the fridge**: Transfer the mayonnaise to an airtight container and store it in the refrigerator for up to 1 week.
+
+**Tips and Variations:**
+
+* **Use room temperature ingredients**: This will help the mayonnaise come together more smoothly.
+* **Don't over-whisk**: Stop whisking once the mayonnaise has thickened, as over-whisking can cause it to break.
+* **Add flavorings**: Consider adding minced garlic, grated ginger, or chopped herbs like parsley or dill to create different flavor variations.
+* **Make it lighter**: If you prefer a lighter mayonnaise, you can add a little water or buttermilk to thin it out.
+* **Try different oils**: While neutral-tasting oils work best, you can experiment with other oils like avocado oil or sesame oil for unique flavor profiles.
+
+**Troubleshooting:**
+
+* **Mayonnaise doesn't thicken**: If the mixture doesn't thicken, it may be due to the oil being poured too quickly or the egg yolks being too cold. Try starting again with a slower pour
+
+==================================
+
+4. **Taste and adjust**: Once the mayonnaise has thickened, taste it and adjust the seasoning as needed. You can add more lemon juice, salt, or even a pinch of sugar to taste.
+5. **Store in the fridge**: Transfer the mayonnaise to an airtight container and store it in the refrigerator for up to 1 week.
+
+**Tips and Variations:**
+
+* **Use room temperature ingredients**: This will help the mayonnaise come together more smoothly.
+* **Don't over-whisk**: Stop whisking once the mayonnaise has thickened, as over-whisking can cause it to break.
+* **Add flavorings**: Consider adding minced garlic, grated ginger, or chopped herbs like parsley or dill to create different flavor variations.
+* **Make it lighter**: If you prefer a lighter mayonnaise, you can add a little water or buttermilk to thin it out.
+* **Try different oils**: While neutral-tasting oils work best, you can experiment with other oils like avocado oil or sesame oil for unique flavor profiles.
+
+**Troubleshooting:**
+
+* **Mayonnaise doesn't thicken**: If the mixture doesn't thicken, it may be due to the oil being poured too quickly or the egg yolks being too cold. Try starting again with a slower pour
+
+==================================
+
+
